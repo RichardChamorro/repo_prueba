@@ -4,7 +4,8 @@ Feature: test_richard
 		#@PRECOND_PX-997
 		Given Ingresar a google
 
-	@TEST_PX-995
+	#@TEST_PX-995
+ 	@TEST_PRUEB-40
 	Scenario: test_richard
 		When introduzco la palabra "Tsoft"
 		And selecciono el resultado de la busqueda "Tsoft"
